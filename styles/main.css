@@ -1,9 +1,10 @@
 @import "url('https://fonts.googleapis.com/css?family=Notable')";
 
 body {background: #FFFEA1;
-font-size : 120%;}
+font-size : 120%;
+font-family: 'Notable', sans-serif;
+}
 h1{font-family:Notable;
 font-size: 200%;
 }
-a:hover {
-  color: rgb(250;0;0); }
+a:hover {color:#B22222; }
